@@ -22,3 +22,6 @@ yarn-error.log*
 # Temporary files
 *.tmp
 *.temp
+
+# Solutions (work in progress)
+advanced-tasks-solution.js
